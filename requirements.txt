@@ -1,19 +1,15 @@
 streamlit
-
 langchain
-
 langchain-community
-
 langchain-groq
-
 langchain-text-splitters
-
+langchain-huggingface
 sentence-transformers
 
+torch
+torchvision
+
 faiss-cpu
-
 pymupdf
-
-python-dotenv
-
 pypdf
+python-dotenv
